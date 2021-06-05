@@ -51,7 +51,7 @@
                         <archive>
                             <manifest>
                                 <addClasspath>true</addClasspath>
-//change this line              <mainClass>Exercise1.base.App</mainClass>
+//change this line              <mainClass>org.example.Exercise1.base.App</mainClass>
                             </manifest>
                         </archive>
                     </configuration>
